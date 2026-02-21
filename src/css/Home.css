@@ -9,7 +9,6 @@
 .search-form {
   max-width: 700px;
   margin: 0 auto 2.5rem;
-  display: flex;
   gap: 0.75rem;
   padding: 1.5rem;
   box-sizing: border-box;
